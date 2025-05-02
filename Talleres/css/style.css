@@ -1,0 +1,39 @@
+body {
+    background-color: beige;
+    color: #EB0769;
+}
+
+.container {
+    background-color: #ffffff;
+    border-color: #EB0769;
+    color: #EB0769;
+}
+
+.btn-custom {
+    background-color: #F3B7C8 !important; 
+    border-color: #EB0769 !important; 
+    color: white !important;
+}
+
+.btn-custom:hover {
+    background-color: #d1a1af !important; 
+    border-color: #EB0769 !important; 
+    color: white !important; 
+}
+
+.form-control {
+    border-color: #EB0769;
+}
+
+.form-control:focus {
+    border-color: #EB0769;
+    box-shadow: none;
+}
+
+.form-floating > label {
+    color: #EB0769;
+}
+
+#miDiv {
+    color: #EB0769;
+}
