@@ -10,3 +10,5 @@ CREATE TABLE usuarios(
     PRIMARY KEY(id)
 )Engine = InnoDB;
 
+INSERT INTO usuarios(nombre, email, telefono) VALUES
+('Juan Perez', '
